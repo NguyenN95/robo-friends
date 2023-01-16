@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
@@ -21,23 +20,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/BabyfaceDeveloper/robo-friends">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Project Name</h3>
+<h3 align="center">RoboFriends</h3>
 
   <p align="center">
-    Project Description
+    Place where robot find friends
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BabyfaceDeveloper/robo-friends"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/BabyfaceDeveloper/robo-friends">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/BabyfaceDeveloper/robo-friends/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/BabyfaceDeveloper/robo-friends/issues">Request Feature</a>
   </p>
 </div>
 
@@ -79,7 +78,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +109,7 @@ npm install npm@latest -g
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/BabyfaceDeveloper/robo-friends.git
    ```
 2. Install NPM packages
    ```bash
@@ -200,12 +198,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] Search Robots by name
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/BabyfaceDeveloper/robo-friends/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,10 +208,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- Version history -->
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
+* 1.0.0
     * Initial Release
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -255,7 +247,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nguyen - [@Nguyen Linkedin](https://www.linkedin.com/in/binhnguyennguyen/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/BabyfaceDeveloper/robo-friends](https://github.com/BabyfaceDeveloper/robo-friends)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,6 +257,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 ## Acknowledgments
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Zero To Mastery](https://zerotomastery.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -277,20 +270,20 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/BabyfaceDeveloper/robo-friends.svg?style=for-the-badge
+[contributors-url]: https://github.com/BabyfaceDeveloper/robo-friends/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/BabyfaceDeveloper/robo-friends.svg?style=for-the-badge
+[forks-url]: https://github.com/BabyfaceDeveloper/robo-friends/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-shield]: https://img.shields.io/github/stars/BabyfaceDeveloper/robo-friends.svg?style=for-the-badge
+[stars-url]: https://github.com/BabyfaceDeveloper/robo-friends/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-shield]: https://img.shields.io/github/issues/BabyfaceDeveloper/robo-friends.svg?style=for-the-badge
+[issues-url]: https://github.com/BabyfaceDeveloper/robo-friends/issues
 
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/BabyfaceDeveloper/robo-friends.svg?style=for-the-badge
+[license-url]: https://github.com/BabyfaceDeveloper/robo-friends/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
