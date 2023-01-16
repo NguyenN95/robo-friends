@@ -29,10 +29,10 @@
   <p align="center">
     Place where robot find friends
     <br />
-    <a href="https://github.com/BabyfaceDeveloper/robo-friends"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BabyfaceDeveloper/robo-friends#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BabyfaceDeveloper/robo-friends">View Demo</a>
+    <a href="https://babyfacedeveloper.github.io/robo-friends/">View Demo</a>
     ·
     <a href="https://github.com/BabyfaceDeveloper/robo-friends/issues">Report Bug</a>
     ·
