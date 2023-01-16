@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bee839b.css",
+    "main.js": "/static/js/main.d1cbbe21.js",
+    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/index.html",
+    "main.2bee839b.css.map": "/static/css/main.2bee839b.css.map",
+    "main.d1cbbe21.js.map": "/static/js/main.d1cbbe21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bee839b.css",
+    "static/js/main.d1cbbe21.js"
+  ]
+}
