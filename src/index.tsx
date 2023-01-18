@@ -1,32 +1,33 @@
-import React from 'react';
 // import ReactDOM from 'react-dom/client';
 import { createRoot } from "react-dom/client";
-import './index.css';
-import App from './container/App';
-import 'tachyons';
+import "./index.css";
+import App from "./container/App";
+import "tachyons";
 // import reportWebVitals from './reportWebVitals';
 import { Provider } from "react-redux";
 import { configureStore } from "@reduxjs/toolkit";
-import { searchRobots, requestRobots } from './reducers';
+import { searchRobots, requestRobots } from "./reducers";
 import { logger } from "redux-logger";
-import * as serviceWorkerRegistration from './serviceWorkerRegistration';
-
+import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 
 const store = configureStore({
-    middleware: (getDefaultMiddleware) => getDefaultMiddleware({ thunk: true }).concat(logger),
-    reducer: {
-        searchRobots,
-        requestRobots
-    }
-})
+  middleware: (getDefaultMiddleware) =>
+    getDefaultMiddleware({ thunk: true }).concat(logger),
+  reducer: {
+    searchRobots,
+    requestRobots,
+  },
+});
 
-
-const root = createRoot(document.getElementById('root'));
+const root = createRoot(document.getElementById("root")!);
 root.render(
-    <Provider store={store}>
-        <App />
-    </Provider>
+  <Provider store={store}>
+    <App />
+  </Provider>
 );
+
+export type RootState = ReturnType<typeof store.getState>;
+export type AppDispatch = typeof store.dispatch;
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
